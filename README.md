@@ -105,8 +105,10 @@ Based on the findings, Dano Airlines can:
 
 Project Files
 
-•	Dashboard PDF [Dano Airline.pdf](https://github.com/user-attachments/files/22383335/Dano.Airline.pdf)
+•	Dashboard PDF: [Dano Airlines Dashboard PDF.pdf](https://github.com/user-attachments/files/22399735/Dano.Airlines.Dashboard.PDF.pdf)
 
 
-•	Dashboard Screenshot <img width="663" height="773" alt="Dano Air" src="https://github.com/user-attachments/assets/11b2b9a9-04c2-4c8f-8b3b-19c855058267" />
+
+•	Dashboard Screenshot: <img width="666" height="772" alt="Dano Airline Dashboard Overview" src="https://github.com/user-attachments/assets/3069cecf-460a-4618-b726-34223e36ea4f" />
+
 
